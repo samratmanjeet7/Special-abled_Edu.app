@@ -1,4 +1,4 @@
-# The Special School Web App
+# The Special-abled_Edu Web App
 
 ## Web App Description
 
@@ -17,7 +17,4 @@ The Special School web app is designed to assist parents in tracking their child
 - React JS
 - Firebase
 
-## Repository Link
 
-[The Special School GitHub Repository](https://github.com/SidhnatPandey/SIH-2022-Web-App-The-Special-School-)
-"# Special-abled_Edu.app" 
